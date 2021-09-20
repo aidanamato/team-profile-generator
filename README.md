@@ -21,6 +21,8 @@ This application requires node.js. If you do not have node.js installed, you can
 
 ## Usage
 
+![A screenshot of a sample team profile](./screenshots/screenshot_1.png)
+
 Simply enter the command `node index` after in the directory which this repository was cloned and answer the following command line prompts to generate your webpage!
 
 [Walkthrough Video](https://drive.google.com/file/d/1XqzJR8bDl5ZDiLbBKhDfBsokCplDk_CN/view)
