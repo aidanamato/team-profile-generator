@@ -35,7 +35,7 @@ class HtmlTemplate {
         <div class="member-info">
           <p>ID: ${id}</p>
           <p>Email: <a href="mailto:${email}">${email}</a></p>
-          <p>Github: ${github}</p>
+          <p>Github: <a href = "https://github.com/${github}">${github}</a></p>
         </div>
       </div>
     </div>

@@ -39,6 +39,7 @@ main {
 }
 
 .member-info-container {
+  height: 190px;
   background-color: rgb(234, 232, 243);
   padding: 30px 10px;
 }
